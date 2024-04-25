@@ -7,7 +7,9 @@ Welcome to the Notes Keeper App! This is a simple yet efficient application that
 Features
 
 Add Notes: Easily add new notes with a title and description.
+
 Delete Notes: Remove notes you no longer need.
+
 Simple Interface: User-friendly interface for seamless note management.
 
 If you'd like 👍 to contribute to the Storage Cost Saving Calculator, please fork the repository and submit a pull request with your changes.
